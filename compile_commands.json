@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/iy/dev/leet/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/iy/dev/leet -I/Users/iy/dev/leet/build/_deps/fmt-src/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -std=gnu++2b -o _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o -c /Users/iy/dev/leet/build/_deps/fmt-src/src/format.cc",
+  "file": "/Users/iy/dev/leet/build/_deps/fmt-src/src/format.cc"
+},
+{
+  "directory": "/Users/iy/dev/leet/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/iy/dev/leet -I/Users/iy/dev/leet/build/_deps/fmt-src/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -std=gnu++2b -o _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o -c /Users/iy/dev/leet/build/_deps/fmt-src/src/os.cc",
+  "file": "/Users/iy/dev/leet/build/_deps/fmt-src/src/os.cc"
+},
+{
+  "directory": "/Users/iy/dev/leet/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/iy/dev/leet -I/Users/iy/dev/leet/build/_deps/googletest-src/googlemock/include -I/Users/iy/dev/leet/build/_deps/googletest-src/googlemock -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest/include -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++2b -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/iy/dev/leet/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/iy/dev/leet/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/iy/dev/leet/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/iy/dev/leet -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googlemock/include -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googlemock -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest/include -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++2b -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/iy/dev/leet/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/iy/dev/leet/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/iy/dev/leet/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/iy/dev/leet -I/Users/iy/dev/leet/build/_deps/googletest-src/googletest/include -I/Users/iy/dev/leet/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++2b -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/iy/dev/leet/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/iy/dev/leet/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/iy/dev/leet/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/iy/dev/leet -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest/include -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++2b -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/iy/dev/leet/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/iy/dev/leet/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/Users/iy/dev/leet/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/iy/dev/leet -I/Users/iy/dev/leet/build/_deps/fmt-src/include -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest/include -isystem /Users/iy/dev/leet/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -std=gnu++2b -o src/CMakeFiles/p1657.dir/p1657.cpp.o -c /Users/iy/dev/leet/src/p1657.cpp",
+  "file": "/Users/iy/dev/leet/src/p1657.cpp"
+}
+]
