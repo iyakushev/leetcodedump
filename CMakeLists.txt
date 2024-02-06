@@ -33,4 +33,7 @@ FetchContent_MakeAvailable(googletest)
 
 include(GoogleTest)
 
+add_compile_options(-fsanitize=address -fsanitize=undefined)
+add_link_options(-fsanitize=address)
+
 add_subdirectory(src)
